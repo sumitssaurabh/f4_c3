@@ -1,0 +1,93 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 100%;
+}
+.main{
+  width: 27.75rem;
+  display: flex;
+ gap: 1rem;
+  flex-direction: column;
+  background-color: #FFFFFF;
+  
+  width:21.375rem;
+
+  margin: auto;
+  box-shadow: 0px 6px 8px 0px #0000000D;
+height: 28.563rem;
+}
+
+.main h3{
+  font-family: Mulish;
+font-size: 14px;
+font-weight: 400;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+font-family: Mulish;
+font-size: 14px;
+font-weight: 700;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+color: #757575;
+}
+
+.main h1{
+  width: 263px;
+height: 30px;
+top: 173px;
+left: 466px;
+font-family: Mulish;
+font-size: 24px;
+font-weight: 700;
+line-height: 30px;
+letter-spacing: 0em;
+text-align: left;
+
+
+}
+
+.main label{
+  width: 65px;
+  height: 18px;
+  top: 321px;
+  left: 464px;
+  font-family: Mulish;
+font-size: 14px;
+font-weight: 500;
+line-height: 18px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.main input{
+  all: unset;
+  width: 18rem;
+height: 2.5rem;
+top: 261px;
+left: 464px;
+padding: 0px 12px 0px 12px;
+border-radius: 6px;
+border: 1px;
+gap: 12px;
+border: 1px solid #DEDEDE;
+margin: auto;
+
+}
+.main button{
+  all: unset;
+  width: Fixed (352px);
+  height: Fixed (45px);
+  top: 424px;
+  left: 464px;
+  padding: 9px 14px 9px 14px;
+  border-radius: 6px;
+  gap: 10px;
+  text-align: center;
+color: white;
+background-color: #463EEA;
+
+}
